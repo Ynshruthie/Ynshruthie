@@ -5,12 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=32&duration=3500&color=FF69B4&center=true&vCenter=true&width=750&lines=AI+%26+Full-Stack+Developer;Creative+Technologist;Building+Elegant+AI+Experiences;Code.+Create.+Inspire.&background=FFFFFF&stroke=000000&strokeWidth=1.2">
 </p>
-<table>
-  <tr>
-    <!-- LEFT SIDE: About Me -->
-    <td width="60%" valign="top">
-
 ## 🌷 About Me
+
+<img align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="240"/>
 
 🔭 I’m currently working on **AI & full-stack projects**  
 👯 I’m looking to collaborate on **web & ML projects**  
@@ -18,15 +15,8 @@
 🌱 I’m currently learning **AI, ML & DSA**  
 💬 Ask me about **Python, Java & Web Dev**  
 ⚡ Fun fact: *I code, dance & create content* 💃✨  
-    </td>
 
-    <!-- RIGHT SIDE: Animation -->
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250"/>
-    </td>
-  </tr>
-</table>
-
+<br clear="right"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.openinapp.co/Ynshruthie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insta.openinapp.co/Ynshruthie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.openinapp.co/Ynshruthie) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pinterest.openinapp.link/Ynshruthie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ynshruthie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yelikanagashruthiofficial@gmail.com) 
