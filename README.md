@@ -31,22 +31,13 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynshruthie&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
 </p>
-<p align="center">
-  <a href="https://instagram.com/insta.openinapp.co/Ynshruthie">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/https://linkedin.openinapp.co/Ynshruthie">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yelikanagashruthiofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@https://www.youtube.com/@ynshruthie">
-    <img src="https://img.shields.io/badge/YouTube-ff69b4?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ynshruthie&bg_color=ffffff&color=ff69b4&line=ff69b4&point=000000&area=true&hide_border=true"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 </p>
+
+
