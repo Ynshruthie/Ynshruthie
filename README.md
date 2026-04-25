@@ -16,3 +16,6 @@
 [![](https://komarev.com/ghpvc/?username=Ynshruthie&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+</p>
