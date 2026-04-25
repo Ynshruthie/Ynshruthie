@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=32&duration=3500&color=FF69B4&center=true&vCenter=true&width=750&lines=AI+%26+Full-Stack+Developer;Creative+Technologist;Building+Elegant+AI+Experiences;Code.+Create.+Inspire.&background=FFFFFF&stroke=000000&strokeWidth=1.2">
 </p>
-## 🌷 About Me
+🌷 About Me 🌷
 
 <img align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="240"/>
 
