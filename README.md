@@ -1,13 +1,31 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/667a06fd-fe62-45cc-a86c-55e10b56a0f5" width="100%" />
+
 <h1 align="center">✨ Hey, I'm Ynshruthie 👩‍💻💖</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+%26+Full-Stack+Developer+💻;Creative+Coder+%26+Content+Creator+🎥;Building+cool+things+with+ML+✨;Dream+big+%26+code+bigger+💫">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=32&duration=3500&color=FF69B4&center=true&vCenter=true&width=750&lines=AI+%26+Full-Stack+Developer;Creative+Technologist;Building+Elegant+AI+Experiences;Code.+Create.+Inspire.&background=FFFFFF&stroke=000000&strokeWidth=1.2">
 </p>
+<table>
+  <tr>
+    <!-- LEFT SIDE: About Me -->
+    <td width="60%" valign="top">
 
-# 💫 About Me:
-🔭 I’m currently working on AI & full-stack projects  <br>👯 I’m looking to collaborate on web & ML projects  <br>🤝 I’m looking for help with advanced AI systems  <br>🌱 I’m currently learning AI, ML & DSA  <br>💬 Ask me about Python, Java & Web Dev  <br>⚡ Fun fact: I code, dance & create content 💃✨
+## 🌷 About Me
+
+🔭 I’m currently working on **AI & full-stack projects**  
+👯 I’m looking to collaborate on **web & ML projects**  
+🤝 I’m looking for help with **advanced AI systems**  
+🌱 I’m currently learning **AI, ML & DSA**  
+💬 Ask me about **Python, Java & Web Dev**  
+⚡ Fun fact: *I code, dance & create content* 💃✨  
+    </td>
+
+    <!-- RIGHT SIDE: Animation -->
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
